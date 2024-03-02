@@ -1,0 +1,16 @@
+.diva{
+    background-color: #1147f7a4; height: 500px; width: 500px;
+}
+.divb{
+    background-color: #7bcdfcde; height: 50%; width: 50%;
+}
+.parc{
+    color: rgb(8, 4, 44); background-color: #b9f2f7; font-family: monospace; font-weight: bold;
+}
+
+.divd{
+    background-color: rgb(205, 235, 167); width: 50vw; height: 50vh;
+}
+.dive{
+    background-color: #7eb38af3; width: 75vw; height: 50%;
+}
